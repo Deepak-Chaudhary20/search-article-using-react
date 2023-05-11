@@ -4,7 +4,7 @@
 [simple functions are used in the application like ternary operator components, class, statless functions and many more.]
 
 
-<p color="red">Ternery Operator, filter(), map().</p>
+### Ternery Operator, filter(), map().
     
     1. CONDITION ? TRUE : FALSE;
     if condition is TRUE then condition first will be executed else condition last will be executed.
