@@ -13,4 +13,4 @@ Ternery Operator.
         then one of the major function is filter is used to filter the condition.
 
 
-<a href ="http://codewithdeepak.in"><img src="https://th.bing.com/th/id/R.89781f9d1ea6d60175e44db9efbf2a9e?rik=yIUR2R9%2fnfMhfw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_182200.png&ehk=2Pz75MY3sXwx6RivP%2buKpX6yGmZTFa%2bXcjnvs%2bisWxk%3d&risl=&pid=ImgRaw&r=0" height="50px" width="50px">See My Portfolio</a>
+<a href ="http://codewithdeepak.in"><img src="https://th.bing.com/th/id/R.89781f9d1ea6d60175e44db9efbf2a9e?rik=yIUR2R9%2fnfMhfw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_182200.png&ehk=2Pz75MY3sXwx6RivP%2buKpX6yGmZTFa%2bXcjnvs%2bisWxk%3d&risl=&pid=ImgRaw&r=0" height="15px" width="15px">See My Portfolio</a>
