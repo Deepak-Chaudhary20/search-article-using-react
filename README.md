@@ -11,3 +11,6 @@ Ternery Operator.
 
     news.filter((item) => item.indexOf(condition) > -1)
         then one of the major function is filter is used to filter the condition.
+
+
+(http://codewithdeepak.in)
