@@ -18,7 +18,7 @@
 <a href ="http://codewithdeepak.in">Portfolio <img src="https://th.bing.com/th/id/R.89781f9d1ea6d60175e44db9efbf2a9e?rik=yIUR2R9%2fnfMhfw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_182200.png&ehk=2Pz75MY3sXwx6RivP%2buKpX6yGmZTFa%2bXcjnvs%2bisWxk%3d&risl=&pid=ImgRaw&r=0" height="15px" width="15px"> Website</a>
 
 
-Showing how to write inline CSS and CSS styles in Object formats.  
+### Showing how to write inline CSS and CSS styles in Object formats.  
 
     const styles = {
         logo: {
