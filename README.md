@@ -26,3 +26,11 @@ Showing how to write inline CSS and CSS styles in Object formats.
             backgroundColor: "#333"
         }
     }
+
+    IN JSX you can use this.
+
+    return (
+        <div>
+            <div style = {styles.logo}>Logo</div>
+        </div>
+    )
